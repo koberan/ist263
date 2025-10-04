@@ -1,1 +1,16 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial, sans-serif;
+  margin: 40px;
+}
 
+h1, h2 {
+  color: steelblue;
+  font-weight: bold;
+}
+
+.evenrow {
+  background-color: #f3f6fa;
+}
+
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
